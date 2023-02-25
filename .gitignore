@@ -1,0 +1,6 @@
+.idea/
+*.properties
+bin/
+lib/
+share/
+*.cfg
